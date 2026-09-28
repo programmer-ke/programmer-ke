@@ -11,8 +11,6 @@ Some things I've done professionally:
 - Implemented on-demand cloud infrastructure provisioning for big data
   processing jobs, that was less costly than legacy systems it
   replaced.
-- Implemented cross chain token bridging for improved cross-chain
-  liquidity.
 - Instrumented and optimized real-time trading backend services
   improving stability and reducing latency by more than 30%.
   
