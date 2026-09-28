@@ -1,16 +1,21 @@
-## Hi there 👋
+## Thanks for Visiting 👋
 
-<!--
-**programmer-ke/programmer-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Free and Open Source Software Enthusiast and Contributer.
 
-Here are some ideas to get you started:
+I also build products and infrastructure: Fullstack · Data · AI/ML · Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things I've done professionally:
+- Developed and deployed batch feature generation and scoring systems
+  with multiple runs per day and thousands of features utilized per
+  run.
+- Implemented on-demand cloud infrastructure provisioning for big data
+  processing jobs, that was less costly than legacy systems it
+  replaced.
+- Implemented cross chain token bridging for improved cross-chain
+  liquidity.
+- Instrumented and optimized real-time trading backend services
+  improving stability and reducing latency by more than 30%.
+  
+Feel free to reach out for collaboration: https://smalltech.dev/
+
+Also look around here for some projects that you may find interesting.
