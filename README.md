@@ -12,7 +12,7 @@ Some things I've done professionally:
   processing jobs, that was less costly than legacy systems it
   replaced.
 - Instrumented and optimized real-time trading backend services
-  improving stability and reducing latency by more than 30%.
+  improving stability and reducing latency
   
 Feel free to reach out for collaboration: https://smalltech.dev/
 
