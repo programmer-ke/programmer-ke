@@ -1,6 +1,6 @@
 ## Thanks for Visiting 👋
 
-I'm a Free and Open Source Software Enthusiast and Contributer.
+I'm a Free and Open Source Software Enthusiast and Contributor.
 
 I also build products and infrastructure: Fullstack · Data · AI/ML · Web3
 
